@@ -30,7 +30,7 @@ specifies the HTTP method and route users will call.
 }
 shows the expected JSON format for input.
 
-6.Suppoerted Operations
+6.Supported Operations
 
 "add" – Addition
 "subtract" – Subtraction
